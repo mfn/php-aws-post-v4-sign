@@ -1,3 +1,9 @@
+# THIS REPO IS ARCHIVED
+
+Please use the features of the official AWS SDK PHP https://github.com/aws/aws-sdk-php
+
+---
+
 # Create V4 signature for AWS S3 REST API Post requests [ ![Travis Build Status](https://travis-ci.org/mfn/php-aws-post-v4-sign.svg?branch=master)](https://travis-ci.org/mfn/php-aws-post-v4-sign)
 
 Homepage: https://github.com/mfn/php-aws-post-v4-sign
