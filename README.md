@@ -2,6 +2,8 @@
 
 Please use the features of the official AWS SDK PHP https://github.com/aws/aws-sdk-php
 
+Specifically, have a look at https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/s3-presigned-post.html
+
 ---
 
 # Create V4 signature for AWS S3 REST API Post requests [ ![Travis Build Status](https://travis-ci.org/mfn/php-aws-post-v4-sign.svg?branch=master)](https://travis-ci.org/mfn/php-aws-post-v4-sign)
